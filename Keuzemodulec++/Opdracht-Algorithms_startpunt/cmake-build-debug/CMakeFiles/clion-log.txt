@@ -1,4 +1,4 @@
-C:\Users\david\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\222.4345.21\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S "D:\HKU\Jaar 2\C-advancedkeuzemodule\Keuzemodulec++\Opdracht2" -B "D:\HKU\Jaar 2\C-advancedkeuzemodule\Keuzemodulec++\Opdracht2\cmake-build-debug"
+C:\Users\david\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\222.4345.21\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/david/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/ninja/win/ninja.exe -G Ninja -S "D:\HKU\Jaar 2\C-advancedkeuzemodule\Keuzemodulec++\Opdracht-Algorithms_startpunt" -B "D:\HKU\Jaar 2\C-advancedkeuzemodule\Keuzemodulec++\Opdracht-Algorithms_startpunt\cmake-build-debug"
 -- The C compiler identification is GNU 11.2.0
 -- The CXX compiler identification is GNU 11.2.0
 -- Detecting C compiler ABI info
@@ -13,4 +13,4 @@ C:\Users\david\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\222.4345.21\bin\c
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: D:/HKU/Jaar 2/C-advancedkeuzemodule/Keuzemodulec++/Opdracht2/cmake-build-debug
+-- Build files have been written to: D:/HKU/Jaar 2/C-advancedkeuzemodule/Keuzemodulec++/Opdracht-Algorithms_startpunt/cmake-build-debug

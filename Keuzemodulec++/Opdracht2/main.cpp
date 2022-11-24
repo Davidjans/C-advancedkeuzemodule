@@ -17,7 +17,7 @@ int main() {
     return 0;
 }
 
-template <class int[]>
+/*template <class int[]>
 T Sort () {
     return (result);
-}
+}*/

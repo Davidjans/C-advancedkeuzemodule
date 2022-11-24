@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/GameDev/HKU/Jaar2/Blok2/Keuzemodulec++/Opdracht2/cmake-build-debug"
+			"value" : "d:/HKU/Jaar 2/C-advancedkeuzemodule/Keuzemodulec++/Opdracht-Algorithms_startpunt/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -623,7 +623,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/GameDev/HKU/Jaar2/Blok2/Keuzemodulec++/Opdracht2"
+			"value" : "D:/HKU/Jaar 2/C-advancedkeuzemodule/Keuzemodulec++/Opdracht-Algorithms_startpunt"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -635,7 +635,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/Opdracht2"
+			"value" : "C:/Program Files (x86)/OpdrAlgorithms"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -851,7 +851,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "Opdracht2"
+			"value" : "OpdrAlgorithms"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1230,7 +1230,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "Opdracht2_BINARY_DIR",
+			"name" : "OpdrAlgorithms_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1239,10 +1239,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/GameDev/HKU/Jaar2/Blok2/Keuzemodulec++/Opdracht2/cmake-build-debug"
+			"value" : "D:/HKU/Jaar 2/C-advancedkeuzemodule/Keuzemodulec++/Opdracht-Algorithms_startpunt/cmake-build-debug"
 		},
 		{
-			"name" : "Opdracht2_IS_TOP_LEVEL",
+			"name" : "OpdrAlgorithms_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1254,7 +1254,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "Opdracht2_SOURCE_DIR",
+			"name" : "OpdrAlgorithms_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1263,7 +1263,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/GameDev/HKU/Jaar2/Blok2/Keuzemodulec++/Opdracht2"
+			"value" : "D:/HKU/Jaar 2/C-advancedkeuzemodule/Keuzemodulec++/Opdracht-Algorithms_startpunt"
 		}
 	],
 	"kind" : "cache",
