@@ -1,0 +1,3 @@
+C:/GameDev/HKU/Jaar2/Blok2/Keuzemodulec++/Opdracht1/cmake-build-debug/CMakeFiles/Opdracht1.dir
+C:/GameDev/HKU/Jaar2/Blok2/Keuzemodulec++/Opdracht1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/GameDev/HKU/Jaar2/Blok2/Keuzemodulec++/Opdracht1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

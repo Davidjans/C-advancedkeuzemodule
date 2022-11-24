@@ -1,0 +1,7 @@
+# ninja log v5
+1	311	6903958943947735	build.ninja	3801d91f6774c966
+3	488	6903111209623147	CMakeFiles/Opdracht1.dir/Source/main.cpp.obj	9dcf85f5075192cd
+3	472	6903111580840260	CMakeFiles/Opdracht1.dir/Source/BankAccount.cpp.obj	e858a83bf4d26bb2
+9	732	6903105509133999	CMakeFiles/Opdracht1.dir/Source/Bank.cpp.obj	94e437a7051c5f06
+12	480	6903105506597826	CMakeFiles/Opdracht1.dir/Source/Transaction.cpp.obj	e9552dee7adead27
+472	551	6903111581594256	Opdracht1.exe	4132b01840e1ae7d
