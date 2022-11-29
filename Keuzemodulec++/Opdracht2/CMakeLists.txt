@@ -3,4 +3,4 @@ project(Opdracht2)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(Opdracht2 main.cpp Queue.cpp Queue.h)
+add_executable(Opdracht2 main.cpp Queue.h)

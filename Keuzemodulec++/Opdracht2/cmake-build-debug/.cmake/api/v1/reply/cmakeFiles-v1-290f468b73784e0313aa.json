@@ -49,6 +49,21 @@
 		{
 			"isCMake" : true,
 			"isExternal" : true,
+			"path" : "C:/Users/david/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/cmake/win/share/cmake-3.23/Modules/CMakeFindCodeBlocks.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/david/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/cmake/win/share/cmake-3.23/Modules/CMakeExtraGeneratorDetermineCompilerMacrosAndIncludeDirs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/david/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/cmake/win/share/cmake-3.23/Modules/ProcessorCount.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
 			"path" : "C:/Users/david/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/cmake/win/share/cmake-3.23/Modules/CMakeCInformation.cmake"
 		},
 		{
@@ -149,8 +164,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "C:/GameDev/HKU/Jaar2/Blok2/Keuzemodulec++/Opdracht1/cmake-build-debug",
-		"source" : "C:/GameDev/HKU/Jaar2/Blok2/Keuzemodulec++/Opdracht1"
+		"build" : "D:/HKU/Jaar 2/C-advancedkeuzemodule/Keuzemodulec++/Opdracht2/cmake-build-debug",
+		"source" : "D:/HKU/Jaar 2/C-advancedkeuzemodule/Keuzemodulec++/Opdracht2"
 	},
 	"version" : 
 	{

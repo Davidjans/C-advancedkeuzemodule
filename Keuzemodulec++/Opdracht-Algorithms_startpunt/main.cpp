@@ -3,6 +3,8 @@
 #include <vector>
 #include <algorithm>
 #include <functional>
+#include <string>
+#include <numeric>
 template<class T>
 int getIndex(std::vector<T> v, T K)
 {
@@ -62,10 +64,15 @@ int main() {
     {
         // 2) alle elementen UPPERCASE te maken.
         std::vector<std::string> colours{"red", "green", "white", "blue", "orange", "green", "orange", "black", "purple"};
+        std::for_each(colours.begin(), colours.end(), [](std::string &word) {
+            return std::transform(word.begin(), word.end(), word.begin(), [](char c) { return std::toupper(c); });
+        });
+
+/*
         for(std::string &s : colours){
             std::transform(s.begin(), s.end(), s.begin(),
                            [](char c){ return std::toupper(c); });
-        }
+        }*/
         for (int i = 0; i < colours.size(); i++) {
             std::cout << colours.at(i) << ' ';
         }
@@ -114,8 +121,17 @@ int main() {
     }
 
     {
-        std::vector<double> numbers{10, 324422, 6, -23, 234.5, 654.1, 3.1242, -9.23, 635};
         // 3) de som, het gemiddelde, en het product van alle getallen te berekenen
+        std::cout << std::endl;
+        std::cout << std::endl;
+        std::cout << "Assignment 6" << std::endl;
+        std::vector<double> numbers{10, 324422, 6, -23, 234.5, 654.1, 3.1242, -9.23, 635};
+        double sum = std::accumulate(numbers.begin(), numbers.end(), 0);
+        double average = std::accumulate(numbers.begin(), numbers.end(), 0) / numbers.size();
+        double product = std::accumulate(numbers.begin(), numbers.end(), 1, std::multiplies<double>());
+        std::cout << "Sum: " << sum << ' ' << std::endl;
+        std::cout << "Average: " << average << ' ' << std::endl;
+        std::cout << "Product: " << product << ' ' << std::endl;
     }
 
     return 0;

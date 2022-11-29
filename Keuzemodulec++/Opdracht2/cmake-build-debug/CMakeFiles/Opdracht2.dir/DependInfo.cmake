@@ -8,7 +8,6 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "D:/HKU/Jaar 2/C-advancedkeuzemodule/Keuzemodulec++/Opdracht2/Queue.cpp" "CMakeFiles/Opdracht2.dir/Queue.cpp.obj" "gcc" "CMakeFiles/Opdracht2.dir/Queue.cpp.obj.d"
   "D:/HKU/Jaar 2/C-advancedkeuzemodule/Keuzemodulec++/Opdracht2/main.cpp" "CMakeFiles/Opdracht2.dir/main.cpp.obj" "gcc" "CMakeFiles/Opdracht2.dir/main.cpp.obj.d"
   )
 

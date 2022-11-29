@@ -1,6 +1,4 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Opdracht2.dir/Queue.cpp.obj"
-  "CMakeFiles/Opdracht2.dir/Queue.cpp.obj.d"
   "CMakeFiles/Opdracht2.dir/main.cpp.obj"
   "CMakeFiles/Opdracht2.dir/main.cpp.obj.d"
   "Opdracht2.exe"

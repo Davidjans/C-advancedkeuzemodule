@@ -82,9 +82,6 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="D:/HKU/Jaar 2/C-advancedkeuzemodule/Keuzemodulec++/Opdracht2/Queue.cpp">
-			<Option target="Opdracht2"/>
-		</Unit>
 		<Unit filename="D:/HKU/Jaar 2/C-advancedkeuzemodule/Keuzemodulec++/Opdracht2/Queue.h">
 			<Option target="Opdracht2"/>
 		</Unit>
