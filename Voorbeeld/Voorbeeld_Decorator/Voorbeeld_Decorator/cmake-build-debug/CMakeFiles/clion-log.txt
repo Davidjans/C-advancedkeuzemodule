@@ -1,0 +1,4 @@
+C:\Users\david\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\222.4345.21\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S "D:\HKU\Jaar 2\C-advancedkeuzemodule\Voorbeeld\Voorbeeld_Decorator\Voorbeeld_Decorator" -B "D:\HKU\Jaar 2\C-advancedkeuzemodule\Voorbeeld\Voorbeeld_Decorator\Voorbeeld_Decorator\cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/HKU/Jaar 2/C-advancedkeuzemodule/Voorbeeld/Voorbeeld_Decorator/Voorbeeld_Decorator/cmake-build-debug

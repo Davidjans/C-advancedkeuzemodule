@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Voorbeeld_Decorator",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Voorbeeld_Decorator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Voorbeeld_Decorator-Debug-b6b3ea4902bf3fa90c24.json",
+					"name" : "Voorbeeld_Decorator",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/HKU/Jaar 2/C-advancedkeuzemodule/Voorbeeld/Voorbeeld_Decorator/Voorbeeld_Decorator/cmake-build-debug",
+		"source" : "D:/HKU/Jaar 2/C-advancedkeuzemodule/Voorbeeld/Voorbeeld_Decorator/Voorbeeld_Decorator"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

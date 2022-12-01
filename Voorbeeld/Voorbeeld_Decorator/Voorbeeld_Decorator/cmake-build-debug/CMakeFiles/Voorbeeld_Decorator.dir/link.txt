@@ -1,0 +1,3 @@
+C:\Users\david\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\222.4345.21\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\Voorbeeld_Decorator.dir/objects.a
+C:\Users\david\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\222.4345.21\bin\mingw\bin\ar.exe qc CMakeFiles\Voorbeeld_Decorator.dir/objects.a @CMakeFiles\Voorbeeld_Decorator.dir\objects1.rsp
+C:\Users\david\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\222.4345.21\bin\mingw\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Voorbeeld_Decorator.dir/objects.a -Wl,--no-whole-archive -o Voorbeeld_Decorator.exe -Wl,--out-implib,libVoorbeeld_Decorator.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Voorbeeld_Decorator.dir\linklibs.rsp
