@@ -1,5 +1,5 @@
 //
-// Created by david on 01/12/2022.
+// Created by david on 19/12/2022.
 //
 
 #ifndef OPDRACHT4_COMPONENT_H
@@ -9,9 +9,14 @@
 #include <string>
 
 class Component {
-    public:
-        virtual ~Component() = default;
-        virtual std::string Operation() const = 0;
+
+
+public:
+    std::string name;
+    Component();
+    virtual ~Component();
+
+    virtual void render() = 0;
 };
 
 
