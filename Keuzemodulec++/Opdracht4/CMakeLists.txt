@@ -3,4 +3,4 @@ project(Opdracht4)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(Opdracht4 main.cpp NPC.cpp NPC.h Race.cpp Race.h Component.cpp Component.h Decorator.cpp Decorator.h ConcreteComponent.cpp ConcreteComponent.h)
+add_executable(Opdracht4 main.cpp Component.cpp Component.h Decorator.cpp Decorator.h RaceDecorator.cpp RaceDecorator.h NPCComponent.cpp NPCComponent.h RoleDecorator.cpp RoleDecorator.h)

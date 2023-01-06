@@ -1,10 +1,17 @@
 //
-// Created by david on 01/12/2022.
+// Created by david on 19/12/2022.
 //
 
 #include "Decorator.h"
 
+void Decorator::render() {
+    theDecorator->render();
+}
 
-std::string Operation(){
-    return this->component_->Operation();
+Decorator::~Decorator() {
+    if (theDecorator) delete theDecorator;
+}
+
+Decorator::Decorator(Component *w) {
+    theDecorator = w;
 }
