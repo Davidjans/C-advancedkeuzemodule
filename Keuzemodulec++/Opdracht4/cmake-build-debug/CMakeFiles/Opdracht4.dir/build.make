@@ -43,10 +43,10 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = C:\Users\david\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.7571.171\bin\cmake\win\bin\cmake.exe
+CMAKE_COMMAND = C:\Users\david\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.8214.51\bin\cmake\win\bin\cmake.exe
 
 # The command to remove a file.
-RM = C:\Users\david\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.7571.171\bin\cmake\win\bin\cmake.exe -E rm -f
+RM = C:\Users\david\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.8214.51\bin\cmake\win\bin\cmake.exe -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -72,85 +72,85 @@ CMakeFiles/Opdracht4.dir/main.cpp.obj: CMakeFiles/Opdracht4.dir/flags.make
 CMakeFiles/Opdracht4.dir/main.cpp.obj: C:/HKU/Jaar2/Blok2/C-advancedkeuzemodule/Keuzemodulec++/Opdracht4/main.cpp
 CMakeFiles/Opdracht4.dir/main.cpp.obj: CMakeFiles/Opdracht4.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\HKU\Jaar2\Blok2\C-advancedkeuzemodule\Keuzemodulec++\Opdracht4\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Opdracht4.dir/main.cpp.obj"
-	C:\Users\david\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.7571.171\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Opdracht4.dir/main.cpp.obj -MF CMakeFiles\Opdracht4.dir\main.cpp.obj.d -o CMakeFiles\Opdracht4.dir\main.cpp.obj -c C:\HKU\Jaar2\Blok2\C-advancedkeuzemodule\Keuzemodulec++\Opdracht4\main.cpp
+	C:\Users\david\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.8214.51\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Opdracht4.dir/main.cpp.obj -MF CMakeFiles\Opdracht4.dir\main.cpp.obj.d -o CMakeFiles\Opdracht4.dir\main.cpp.obj -c C:\HKU\Jaar2\Blok2\C-advancedkeuzemodule\Keuzemodulec++\Opdracht4\main.cpp
 
 CMakeFiles/Opdracht4.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Opdracht4.dir/main.cpp.i"
-	C:\Users\david\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.7571.171\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\HKU\Jaar2\Blok2\C-advancedkeuzemodule\Keuzemodulec++\Opdracht4\main.cpp > CMakeFiles\Opdracht4.dir\main.cpp.i
+	C:\Users\david\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.8214.51\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\HKU\Jaar2\Blok2\C-advancedkeuzemodule\Keuzemodulec++\Opdracht4\main.cpp > CMakeFiles\Opdracht4.dir\main.cpp.i
 
 CMakeFiles/Opdracht4.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Opdracht4.dir/main.cpp.s"
-	C:\Users\david\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.7571.171\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\HKU\Jaar2\Blok2\C-advancedkeuzemodule\Keuzemodulec++\Opdracht4\main.cpp -o CMakeFiles\Opdracht4.dir\main.cpp.s
+	C:\Users\david\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.8214.51\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\HKU\Jaar2\Blok2\C-advancedkeuzemodule\Keuzemodulec++\Opdracht4\main.cpp -o CMakeFiles\Opdracht4.dir\main.cpp.s
 
 CMakeFiles/Opdracht4.dir/Component.cpp.obj: CMakeFiles/Opdracht4.dir/flags.make
 CMakeFiles/Opdracht4.dir/Component.cpp.obj: C:/HKU/Jaar2/Blok2/C-advancedkeuzemodule/Keuzemodulec++/Opdracht4/Component.cpp
 CMakeFiles/Opdracht4.dir/Component.cpp.obj: CMakeFiles/Opdracht4.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\HKU\Jaar2\Blok2\C-advancedkeuzemodule\Keuzemodulec++\Opdracht4\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Opdracht4.dir/Component.cpp.obj"
-	C:\Users\david\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.7571.171\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Opdracht4.dir/Component.cpp.obj -MF CMakeFiles\Opdracht4.dir\Component.cpp.obj.d -o CMakeFiles\Opdracht4.dir\Component.cpp.obj -c C:\HKU\Jaar2\Blok2\C-advancedkeuzemodule\Keuzemodulec++\Opdracht4\Component.cpp
+	C:\Users\david\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.8214.51\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Opdracht4.dir/Component.cpp.obj -MF CMakeFiles\Opdracht4.dir\Component.cpp.obj.d -o CMakeFiles\Opdracht4.dir\Component.cpp.obj -c C:\HKU\Jaar2\Blok2\C-advancedkeuzemodule\Keuzemodulec++\Opdracht4\Component.cpp
 
 CMakeFiles/Opdracht4.dir/Component.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Opdracht4.dir/Component.cpp.i"
-	C:\Users\david\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.7571.171\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\HKU\Jaar2\Blok2\C-advancedkeuzemodule\Keuzemodulec++\Opdracht4\Component.cpp > CMakeFiles\Opdracht4.dir\Component.cpp.i
+	C:\Users\david\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.8214.51\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\HKU\Jaar2\Blok2\C-advancedkeuzemodule\Keuzemodulec++\Opdracht4\Component.cpp > CMakeFiles\Opdracht4.dir\Component.cpp.i
 
 CMakeFiles/Opdracht4.dir/Component.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Opdracht4.dir/Component.cpp.s"
-	C:\Users\david\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.7571.171\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\HKU\Jaar2\Blok2\C-advancedkeuzemodule\Keuzemodulec++\Opdracht4\Component.cpp -o CMakeFiles\Opdracht4.dir\Component.cpp.s
+	C:\Users\david\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.8214.51\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\HKU\Jaar2\Blok2\C-advancedkeuzemodule\Keuzemodulec++\Opdracht4\Component.cpp -o CMakeFiles\Opdracht4.dir\Component.cpp.s
 
 CMakeFiles/Opdracht4.dir/Decorator.cpp.obj: CMakeFiles/Opdracht4.dir/flags.make
 CMakeFiles/Opdracht4.dir/Decorator.cpp.obj: C:/HKU/Jaar2/Blok2/C-advancedkeuzemodule/Keuzemodulec++/Opdracht4/Decorator.cpp
 CMakeFiles/Opdracht4.dir/Decorator.cpp.obj: CMakeFiles/Opdracht4.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\HKU\Jaar2\Blok2\C-advancedkeuzemodule\Keuzemodulec++\Opdracht4\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Opdracht4.dir/Decorator.cpp.obj"
-	C:\Users\david\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.7571.171\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Opdracht4.dir/Decorator.cpp.obj -MF CMakeFiles\Opdracht4.dir\Decorator.cpp.obj.d -o CMakeFiles\Opdracht4.dir\Decorator.cpp.obj -c C:\HKU\Jaar2\Blok2\C-advancedkeuzemodule\Keuzemodulec++\Opdracht4\Decorator.cpp
+	C:\Users\david\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.8214.51\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Opdracht4.dir/Decorator.cpp.obj -MF CMakeFiles\Opdracht4.dir\Decorator.cpp.obj.d -o CMakeFiles\Opdracht4.dir\Decorator.cpp.obj -c C:\HKU\Jaar2\Blok2\C-advancedkeuzemodule\Keuzemodulec++\Opdracht4\Decorator.cpp
 
 CMakeFiles/Opdracht4.dir/Decorator.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Opdracht4.dir/Decorator.cpp.i"
-	C:\Users\david\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.7571.171\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\HKU\Jaar2\Blok2\C-advancedkeuzemodule\Keuzemodulec++\Opdracht4\Decorator.cpp > CMakeFiles\Opdracht4.dir\Decorator.cpp.i
+	C:\Users\david\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.8214.51\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\HKU\Jaar2\Blok2\C-advancedkeuzemodule\Keuzemodulec++\Opdracht4\Decorator.cpp > CMakeFiles\Opdracht4.dir\Decorator.cpp.i
 
 CMakeFiles/Opdracht4.dir/Decorator.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Opdracht4.dir/Decorator.cpp.s"
-	C:\Users\david\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.7571.171\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\HKU\Jaar2\Blok2\C-advancedkeuzemodule\Keuzemodulec++\Opdracht4\Decorator.cpp -o CMakeFiles\Opdracht4.dir\Decorator.cpp.s
+	C:\Users\david\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.8214.51\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\HKU\Jaar2\Blok2\C-advancedkeuzemodule\Keuzemodulec++\Opdracht4\Decorator.cpp -o CMakeFiles\Opdracht4.dir\Decorator.cpp.s
 
 CMakeFiles/Opdracht4.dir/RaceDecorator.cpp.obj: CMakeFiles/Opdracht4.dir/flags.make
 CMakeFiles/Opdracht4.dir/RaceDecorator.cpp.obj: C:/HKU/Jaar2/Blok2/C-advancedkeuzemodule/Keuzemodulec++/Opdracht4/RaceDecorator.cpp
 CMakeFiles/Opdracht4.dir/RaceDecorator.cpp.obj: CMakeFiles/Opdracht4.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\HKU\Jaar2\Blok2\C-advancedkeuzemodule\Keuzemodulec++\Opdracht4\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Opdracht4.dir/RaceDecorator.cpp.obj"
-	C:\Users\david\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.7571.171\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Opdracht4.dir/RaceDecorator.cpp.obj -MF CMakeFiles\Opdracht4.dir\RaceDecorator.cpp.obj.d -o CMakeFiles\Opdracht4.dir\RaceDecorator.cpp.obj -c C:\HKU\Jaar2\Blok2\C-advancedkeuzemodule\Keuzemodulec++\Opdracht4\RaceDecorator.cpp
+	C:\Users\david\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.8214.51\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Opdracht4.dir/RaceDecorator.cpp.obj -MF CMakeFiles\Opdracht4.dir\RaceDecorator.cpp.obj.d -o CMakeFiles\Opdracht4.dir\RaceDecorator.cpp.obj -c C:\HKU\Jaar2\Blok2\C-advancedkeuzemodule\Keuzemodulec++\Opdracht4\RaceDecorator.cpp
 
 CMakeFiles/Opdracht4.dir/RaceDecorator.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Opdracht4.dir/RaceDecorator.cpp.i"
-	C:\Users\david\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.7571.171\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\HKU\Jaar2\Blok2\C-advancedkeuzemodule\Keuzemodulec++\Opdracht4\RaceDecorator.cpp > CMakeFiles\Opdracht4.dir\RaceDecorator.cpp.i
+	C:\Users\david\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.8214.51\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\HKU\Jaar2\Blok2\C-advancedkeuzemodule\Keuzemodulec++\Opdracht4\RaceDecorator.cpp > CMakeFiles\Opdracht4.dir\RaceDecorator.cpp.i
 
 CMakeFiles/Opdracht4.dir/RaceDecorator.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Opdracht4.dir/RaceDecorator.cpp.s"
-	C:\Users\david\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.7571.171\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\HKU\Jaar2\Blok2\C-advancedkeuzemodule\Keuzemodulec++\Opdracht4\RaceDecorator.cpp -o CMakeFiles\Opdracht4.dir\RaceDecorator.cpp.s
+	C:\Users\david\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.8214.51\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\HKU\Jaar2\Blok2\C-advancedkeuzemodule\Keuzemodulec++\Opdracht4\RaceDecorator.cpp -o CMakeFiles\Opdracht4.dir\RaceDecorator.cpp.s
 
 CMakeFiles/Opdracht4.dir/NPCComponent.cpp.obj: CMakeFiles/Opdracht4.dir/flags.make
 CMakeFiles/Opdracht4.dir/NPCComponent.cpp.obj: C:/HKU/Jaar2/Blok2/C-advancedkeuzemodule/Keuzemodulec++/Opdracht4/NPCComponent.cpp
 CMakeFiles/Opdracht4.dir/NPCComponent.cpp.obj: CMakeFiles/Opdracht4.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\HKU\Jaar2\Blok2\C-advancedkeuzemodule\Keuzemodulec++\Opdracht4\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Opdracht4.dir/NPCComponent.cpp.obj"
-	C:\Users\david\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.7571.171\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Opdracht4.dir/NPCComponent.cpp.obj -MF CMakeFiles\Opdracht4.dir\NPCComponent.cpp.obj.d -o CMakeFiles\Opdracht4.dir\NPCComponent.cpp.obj -c C:\HKU\Jaar2\Blok2\C-advancedkeuzemodule\Keuzemodulec++\Opdracht4\NPCComponent.cpp
+	C:\Users\david\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.8214.51\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Opdracht4.dir/NPCComponent.cpp.obj -MF CMakeFiles\Opdracht4.dir\NPCComponent.cpp.obj.d -o CMakeFiles\Opdracht4.dir\NPCComponent.cpp.obj -c C:\HKU\Jaar2\Blok2\C-advancedkeuzemodule\Keuzemodulec++\Opdracht4\NPCComponent.cpp
 
 CMakeFiles/Opdracht4.dir/NPCComponent.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Opdracht4.dir/NPCComponent.cpp.i"
-	C:\Users\david\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.7571.171\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\HKU\Jaar2\Blok2\C-advancedkeuzemodule\Keuzemodulec++\Opdracht4\NPCComponent.cpp > CMakeFiles\Opdracht4.dir\NPCComponent.cpp.i
+	C:\Users\david\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.8214.51\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\HKU\Jaar2\Blok2\C-advancedkeuzemodule\Keuzemodulec++\Opdracht4\NPCComponent.cpp > CMakeFiles\Opdracht4.dir\NPCComponent.cpp.i
 
 CMakeFiles/Opdracht4.dir/NPCComponent.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Opdracht4.dir/NPCComponent.cpp.s"
-	C:\Users\david\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.7571.171\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\HKU\Jaar2\Blok2\C-advancedkeuzemodule\Keuzemodulec++\Opdracht4\NPCComponent.cpp -o CMakeFiles\Opdracht4.dir\NPCComponent.cpp.s
+	C:\Users\david\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.8214.51\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\HKU\Jaar2\Blok2\C-advancedkeuzemodule\Keuzemodulec++\Opdracht4\NPCComponent.cpp -o CMakeFiles\Opdracht4.dir\NPCComponent.cpp.s
 
 CMakeFiles/Opdracht4.dir/RoleDecorator.cpp.obj: CMakeFiles/Opdracht4.dir/flags.make
 CMakeFiles/Opdracht4.dir/RoleDecorator.cpp.obj: C:/HKU/Jaar2/Blok2/C-advancedkeuzemodule/Keuzemodulec++/Opdracht4/RoleDecorator.cpp
 CMakeFiles/Opdracht4.dir/RoleDecorator.cpp.obj: CMakeFiles/Opdracht4.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\HKU\Jaar2\Blok2\C-advancedkeuzemodule\Keuzemodulec++\Opdracht4\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Opdracht4.dir/RoleDecorator.cpp.obj"
-	C:\Users\david\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.7571.171\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Opdracht4.dir/RoleDecorator.cpp.obj -MF CMakeFiles\Opdracht4.dir\RoleDecorator.cpp.obj.d -o CMakeFiles\Opdracht4.dir\RoleDecorator.cpp.obj -c C:\HKU\Jaar2\Blok2\C-advancedkeuzemodule\Keuzemodulec++\Opdracht4\RoleDecorator.cpp
+	C:\Users\david\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.8214.51\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Opdracht4.dir/RoleDecorator.cpp.obj -MF CMakeFiles\Opdracht4.dir\RoleDecorator.cpp.obj.d -o CMakeFiles\Opdracht4.dir\RoleDecorator.cpp.obj -c C:\HKU\Jaar2\Blok2\C-advancedkeuzemodule\Keuzemodulec++\Opdracht4\RoleDecorator.cpp
 
 CMakeFiles/Opdracht4.dir/RoleDecorator.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Opdracht4.dir/RoleDecorator.cpp.i"
-	C:\Users\david\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.7571.171\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\HKU\Jaar2\Blok2\C-advancedkeuzemodule\Keuzemodulec++\Opdracht4\RoleDecorator.cpp > CMakeFiles\Opdracht4.dir\RoleDecorator.cpp.i
+	C:\Users\david\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.8214.51\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\HKU\Jaar2\Blok2\C-advancedkeuzemodule\Keuzemodulec++\Opdracht4\RoleDecorator.cpp > CMakeFiles\Opdracht4.dir\RoleDecorator.cpp.i
 
 CMakeFiles/Opdracht4.dir/RoleDecorator.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Opdracht4.dir/RoleDecorator.cpp.s"
-	C:\Users\david\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.7571.171\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\HKU\Jaar2\Blok2\C-advancedkeuzemodule\Keuzemodulec++\Opdracht4\RoleDecorator.cpp -o CMakeFiles\Opdracht4.dir\RoleDecorator.cpp.s
+	C:\Users\david\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.8214.51\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\HKU\Jaar2\Blok2\C-advancedkeuzemodule\Keuzemodulec++\Opdracht4\RoleDecorator.cpp -o CMakeFiles\Opdracht4.dir\RoleDecorator.cpp.s
 
 # Object files for target Opdracht4
 Opdracht4_OBJECTS = \

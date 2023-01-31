@@ -3,7 +3,6 @@
 #include <cstdlib>
 #include <vector>
 
-// A struct representing a boid
 struct Boid
 {
 	sf::Vector2f position;
@@ -21,7 +20,6 @@ struct Boid
 
 	void update(std::vector<Boid>& boids)
 	{
-		// Update the position of the boid based on its velocity
 		position += velocity * 0.01f;
 
 		sf::Vector2f seperationRule = SeperationRule(boids);
@@ -31,10 +29,9 @@ struct Boid
 		sf::Vector2f cohesionRule = CohesionRule(boids);
 
 		sf::Vector2f boundingRule = BoundingRule(boids);
-		// Update the velocity of the boid based on the separation, alignment, and cohesion forces
+
 		velocity += seperationRule + alignmentRule + cohesionRule + boundingRule;
 		
-		// Update the shape to match the new position of the boid
 		shape.setPosition(position);
 	}
 	sf::Vector2f SeperationRule(std::vector<Boid>& boids)
@@ -129,8 +126,6 @@ int main()
 	window.setFramerateLimit(60);
 
 	std::vector<Boid> boids;
-
-	// Add some initial boids to the simulation
 	for (int i = 0; i < 50; i++)
 	{
 		boids.push_back(Boid(rand() % 800, rand() % 600));
@@ -149,13 +144,11 @@ int main()
 
 		window.clear();
 
-		// Update the positions of all the boids
 		for (auto& boid : boids)
 		{
 			boid.update(boids);
 		}
 
-		// Draw all the boids
 		for (auto& boid : boids)
 		{
 			window.draw(boid.shape);
